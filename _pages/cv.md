@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bio-Mechatronics, National Taiwan University, 2018
+* M.Eng. in Robotics, University of Maryland - College Park, 2023 (Expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* TuSimple, San Diego, CA, *Perception Research Engineer Intern, May 2022 - August 2022
+  * Designed a data generation pipeline for stereo 3D object detection.
+  * Migrated the current offline stereo 2D object detection system from MXNet to PyTorch.
+  * Built a baseline stereo 3D object detection model based on the current stereo 2D object detection model.
+  * Designed and implemented an offline stereo 3D object detection model that achieved an overall 2.1 mae improvement indepth estimation compared to the current stereo model.
+* Computer Vision Lab, Institute of Information Science, Adademia Sinica, *Research Assistant, July 2018 - July 2021
+  * Referring 3D Instance Segmentation
+  * Visual Language Navigation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -36,24 +36,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
